@@ -1,0 +1,1 @@
+print(divmod(11,2))
